@@ -32,7 +32,7 @@ from openpyxl import Workbook
 # class EbookScraperPipeline:
 #     def open_spider(self, spider):
 #         self.client = MongoClient(
-#             host= "mongodb+srv://pratik:pratik_dhakal_900@cluster0.kiya07v.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp",
+@clusterX.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp",
 #             connect = False
 #         )
 
